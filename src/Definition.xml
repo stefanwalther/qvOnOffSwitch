@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ExtensionObject Label="OnOffSwitch Properties" Description="Button to switch a variable between true/false." Type="object">y  
+  
+  <!-- Text.0: Name of Variable-->
+  <Text Label="Variable Name:" Initial="" TargetName="VariableName" Type="text" Width="90%"/>
+
+  <!-- Text.1: Label for On-->
+  <Text Label="Label On:" TargetName="LabelOn" Type="text" Width="90%" Expression="On"/>
+  
+  <!-- Text.2: Label for Off -->
+  <Text Label="Label Off:" TargetName="LabelOff" Type="text" Width="90%" Expression="Off" />
+
+  <!-- Default Values -->
+  <Initiate Name="Chart.Text.1.Content" Value="On" />
+  <Initiate Name="Chart.Text.2.Content" Value="Off" />
+  
+  <!-- Default Values Extension Object -->
+  
+</ExtensionObject>
