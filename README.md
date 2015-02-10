@@ -15,7 +15,7 @@
 
 * Further information: http://www.qlikblog.at/1851/onoffswitch-qlikview-extension/
 * [Latest version](https://github.com/stefanwalther/qvOnOffSwitch/raw/master/build/OnOffSwitch_latest.qar) (.qar file)
-* QlikView Demo App
+* [QlikView Demo App using OnOffSwitch](https://github.com/stefanwalther/qvOnOffSwitch/raw/gh-pages/demo/OnOffSwitch_QlikView_DemoApp_v1.0.qvw)
 
 
 ## Screenshots
