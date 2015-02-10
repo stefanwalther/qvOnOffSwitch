@@ -3,9 +3,10 @@
 # =========================
 Resources/
 Tests/
+/dist/
 web.*.config
-**/node_modules/
-**/bower_components/
+/**/grunt/node_modules/
+/**/bower_components/
 
 
 # =========================
