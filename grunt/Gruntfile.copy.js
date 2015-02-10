@@ -8,13 +8,7 @@ module.exports = function ( grunt ) {
             expand: true,
             cwd: '../src/',
             src: [
-                '**', 
-                '!**/obj/**', 
-                '!**/bin/**', 
-                '!**/Properties/**', 
-                '!**/*.csproj', 
-                '!**/*.user', 
-                '!**/Todos.txt'
+                '**'
                 ],
             dest: '../dist/',
             flatten: false
@@ -24,7 +18,7 @@ module.exports = function ( grunt ) {
             cwd: '../',
             src: [
                 'LICENSE.md',
-                'CHANGES.md',
+                'CHANGELOG.md',
                 'README.md'
                 ],
             dest: '../dist/',

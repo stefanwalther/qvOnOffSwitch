@@ -6,7 +6,7 @@ module.exports = function ( grunt ) {
     return {
         release: {
             options: {
-                archive: '../build/BetterCurrentSelectionsBox_v<%=projectConfig.extensionVersion%>.qar',
+                archive: '../build/<%=projectConfig.extensionName%>_v<%=projectConfig.extensionVersion%>.qar',
                 mode: 'zip'
             },
             files: [
@@ -20,7 +20,7 @@ module.exports = function ( grunt ) {
         },
         release_latest: {
             options: {
-                archive: '../build/BetterCurrentSelectionsBox_latest.qar',
+                archive: '../build/<%=projectConfig.extensionName%>_latest.qar',
                 mode: 'zip'
             },
             files: [
