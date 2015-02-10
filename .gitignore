@@ -1,9 +1,9 @@
 # =========================
 # Project specific
 # =========================
-Resources/
-Tests/
-web.*.config
+/[Rr]esources/
+/[Tt]ests/
+/[Dd]ist/
 **/node_modules/
 **/bower_components/
 
