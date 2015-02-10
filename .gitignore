@@ -4,7 +4,6 @@
 Resources/
 Tests/
 web.*.config
-dist/
 **/node_modules/
 **/bower_components/
 
@@ -24,7 +23,6 @@ dist/
 [Dd]ebug/
 [Rr]elease/
 x64/
-build/
 [Bb]in/
 [Oo]bj/
 
