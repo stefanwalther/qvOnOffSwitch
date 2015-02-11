@@ -59,10 +59,10 @@ In a **real live scenario**, the On/Off switches could be used for:
 
 ## Potential Improvements & Ideas
 
-[ ] Probably I could add more layouts/themes
-[ ] Offer more possibilities than just On/Off (like radio buttons), e.g. small, small, regular, large, larger
-[ ] Add the possibility to disable the control
-[ ] Add the functionality to change target values, so on only 0 for Off and 1 for On, but e.g. 1 for Off and 1000 for Off
+-[ ] Probably I could add more layouts/themes
+-[ ] Offer more possibilities than just On/Off (like radio buttons), e.g. small, small, regular, large, larger
+-[ ] Add the possibility to disable the control
+-[ ] Add the functionality to change target values, so on only 0 for Off and 1 for On, but e.g. 1 for Off and 1000 for Off
 
 ## Contributing & Issues
 Pull requests and stars are always welcome. For bugs and feature requests, [please create an issue](https://github.com/stefanwalther/qvOnOffSwitch/issues).
