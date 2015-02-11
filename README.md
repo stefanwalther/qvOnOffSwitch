@@ -57,5 +57,25 @@ In a **real live scenario**, the On/Off switches could be used for:
 	* `Off = 0`
 * Changing the value for the "On" or "Off" label will not change the resulting variable value
 
-## Credits
-I have reviewed some implementations how to achieve a toggle switch using jQuery, Html and CSS. Finally I decided to use a very simple implementation by [Monji Dolon](http://linkedin.com/in/mdolon) posted on his [blog](http://devgrow.com/iphone-style-switches/). Thanks!
+## Potential Improvements & Ideas
+
+[ ] Probably I could add more layouts/themes
+[ ] Offer more possibilities than just On/Off (like radio buttons), e.g. small, small, regular, large, larger
+[ ] Add the possibility to disable the control
+[ ] Add the functionality to change target values, so on only 0 for Off and 1 for On, but e.g. 1 for Off and 1000 for Off
+
+## Contributing & Issues
+Pull requests and stars are always welcome. For bugs and feature requests, [please create an issue](https://github.com/stefanwalther/qvOnOffSwitch/issues).
+
+## Author
+
+**Stefan Walther**
+* [qlikblog.at](http://www.qlikblog.at)
+* [github.com/stefanwalther](http://github.com/stefanwalther)
+* [twitter.com/waltherstefan](http://twitter.com/waltherstefan)
+
+## License
+
+The software is made available "AS IS" without any warranty of any kind under the MIT License (MIT).
+
+See [Additional license information for this solution.](https://github.com/stefanwalther/qvOnOffSwitch/blob/master/LICENSE.md)
