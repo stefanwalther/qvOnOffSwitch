@@ -1,4 +1,4 @@
-# OnOffSwitch Extension for Qlikview
+# OnOffSwitch Extension for QlikView
 
 **_OnOffSwitch_** is a QlikView extension which allows you to change the value of a variable with a nice looking interface.
 
